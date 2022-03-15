@@ -1,7 +1,7 @@
-  	      lda #$00	; set a pointer at $40 to point 
-  	      sta $40
-  	      lda #$02
-  	      sta $41
+  	     lda #$00	; set a pointer at $40 to point 
+  	     sta $40
+  	     lda #$02
+  	     sta $41
 	
 	     lda #$02	; red top line
 	     ldy #$00	; set index to 0
